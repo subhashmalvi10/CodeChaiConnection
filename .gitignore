@@ -1,0 +1,7 @@
+# ignore ALL files in ANY directory named devlopmentenv
+devlopmentenv/
+
+# ignore ALL .log files
+*.log
+
+.env
