@@ -5,3 +5,5 @@ devlopmentenv/
 *.log
 
 .env
+
+__pycache__/
